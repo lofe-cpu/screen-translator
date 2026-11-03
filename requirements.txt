@@ -1,0 +1,9 @@
+PySide6
+dxcam
+mss
+numpy
+opencv-python
+rapidocr
+onnxruntime-gpu[cuda,cudnn]
+requests
+keyboard
